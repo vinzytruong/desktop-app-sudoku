@@ -1,0 +1,7 @@
+App name: Sudoku
+Developed by: Truong Phuc Vinh
+Version: 1.0 (demo)
+Release: May 14, 2022
+Engine: Java
+Platform: Microsoft Windows
+Description: sudoku has an original name called Number Place, this is a game that arranges numbers based on combinational logic. The goal of the game is fill in the numbers in a 9x9 grid such that each row, each column, and each of the nine 3x3 subgrids have all the numbers 1 through 9. The condition is that the entered digit does not appear twice in the same row, column or in the 3x3 subgrid. The sudoku board is partially solved, the player's task is to keep filling in the empty cells until all the cells are filled with satisfactory values.
